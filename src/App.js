@@ -8,7 +8,7 @@ import './styles/styles.scss';
 function App() {
   return (
     <ThemeProvider>
-      <div id="trippy-pixels-app">
+      <div id="your-awesome-app">
         <Router>
           <AuthProvider>
             <Switch>
