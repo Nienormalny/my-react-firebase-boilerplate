@@ -34,3 +34,7 @@ This repo is only to save some time.
 3. Restart local project to use `.env`
 
 ### * Boilerplate will be updated soon
+**Missing:**
+- Login form
+- Basic functions
+- Styles
