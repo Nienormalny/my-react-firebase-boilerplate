@@ -32,3 +32,5 @@ This repo is only to save some time.
 # REACT_APP_MEASUREMENT_ID=measurementidfromfirebase
 ```
 3. Restart local project to use `.env`
+
+### * Boilerplate will be updated soon
