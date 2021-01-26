@@ -13,6 +13,13 @@ This is my boilerplate for React with Firebase configuration.
 This repo is only to save some time.
 
 # Configuration:
+
+## Project
+1. `yarn install` / `npm install`
+2. `yarn start` / `npm start`
+3. To build `yarn build` / `npm run build`
+
+## Firebase/Firestore
 1. Create `.env` file inside project
 2. Add inside:
 ```
